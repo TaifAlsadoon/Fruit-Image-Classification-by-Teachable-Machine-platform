@@ -1,7 +1,7 @@
 # Fruit-Image-Classification-by-Teachable-Machine-platform-
 
 
-
+![Image 15-02-1446 AH at 3 25 PM](https://github.com/user-attachments/assets/314e0a4b-b8c5-4988-bbe2-21b826441216)
 
 
 
