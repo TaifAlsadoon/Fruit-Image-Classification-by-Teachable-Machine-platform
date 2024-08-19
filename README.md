@@ -5,7 +5,7 @@
 
 
 
-When using a platform like Teachable Machine [    ](https://teachablemachine.withgoogle.com/) to build image classification models, consider the following tips:
+When using a platform like Teachable Machine (https://teachablemachine.withgoogle.com/)to build image classification models, consider the following tips:
 
 
 1. Use a Large and Diverse Dataset
