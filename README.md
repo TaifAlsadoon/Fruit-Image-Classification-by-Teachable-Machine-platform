@@ -2,7 +2,7 @@
 
 
 
-Tips for Using a Teachable Machine Platform to Classify Images:
+
 
 
 When using a platform like Teachable Machine to build image classification models, consider the following tips:
@@ -20,4 +20,4 @@ In addition to having a diverse dataset, try placing the same image in multiple 
 Beyond just varying the position of images, also include examples of the same object or class in different real-world situations and environments. This will train the model to recognize the key features of the class, rather than just memorizing specific backgrounds or settings.
 
 
-By following these tips, you can build robust and effective image classification models using a Teachable Machine platform. A strong, diverse dataset and strategic image positioning and variety will help ensure your model performs well on real-world data.
+
